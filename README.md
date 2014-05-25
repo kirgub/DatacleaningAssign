@@ -1,9 +1,11 @@
 Data cleaning Assignment
 ===================
 
-This code requires the reshape2(mandatory)
+This code requires the reshape2 package (mandatory)
 
-code verifies the availability of the directories
+code verifies the availability of the directories and stops the process if not available
+
+loads the activites in to a datatable and laods the features
 
 loads all subject, activities and X-data for both the test and train dataset
 
