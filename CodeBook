@@ -1,0 +1,36 @@
+assignment 1 (subsetting only the std and mean)
+==============================================
+susetdata contains only the mean and std features only
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation
+
+assignemnt -2 (mean at subject and activiy level)
+==================================================
+
+data in it will be exactly like feature_info file provided in the assignment
+
+it contains addtional three fields, activity code, activity description and subject details
+
+
+
